@@ -160,3 +160,162 @@ li a {
   color: #fff;
   background-color: #ff6464;
 }
+/* work-section  */
+.col-md-8 {
+  text-align: left !important;
+  margin-top: 20px;
+}
+.work-head h2 {
+  font-weight: 800;
+  margin-top: 100px;
+  text-transform: uppercase;
+  font-size: 24px;
+}
+.circle-container {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: #000910e3;
+  overflow: hidden;
+  display: inline-block;
+  margin-right: 20px;
+}
+.circle-container1 {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: #0cb4a6;
+  overflow: hidden;
+  display: inline-block;
+  margin-right: 20px;
+}
+.content-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.circle-image {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 10px 10px;
+}
+.text-container {
+  margin-left: 15px;
+}
+.text-container p {
+  color: rgb(232, 61, 61);
+  font-weight: 800;
+}
+.text-container h4 {
+  font-weight: 800;
+  text-transform: uppercase;
+  font-size: 18px;
+}
+.imageeee {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-sec {
+  width: 400px;
+  height: 400px;
+  display: block;
+  margin: 0 auto;
+}
+.section-heading {
+  text-transform: uppercase;
+  font-weight: 800;
+  font-size: 25px;
+}
+.card {
+  text-align: center;
+  margin-left: 220px;
+  width: 700px;
+  margin-top: 40px;
+  box-shadow: #333;
+}
+.card h5 {
+  font-weight: 800;
+}
+.card .quote {
+  font-size: 30px;
+}
+footer {
+  background-color: #010e16e3;
+  margin-top: 40px;
+  width: 100%;
+}
+.footer-img {
+  margin-left: 180px;
+  margin-top: 40px;
+}
+.footer-head {
+  color: #fff;
+  font-weight: 800;
+  font-size: 23px;
+  margin-left: 240px;
+  margin-top: -50px;
+}
+.icons-footer {
+  color: #fff;
+  float: right;
+  margin: 50px 40px;
+}
+.icons-footer svg {
+  font-size: 190px;
+  font-weight: 800;
+  justify-content: space-between;
+  margin-right: 30px;
+}
+.color-footer {
+  color: #fff;
+  margin-left: 40px;
+}
+.color-footer h4 {
+  font-weight: 800;
+  text-transform: uppercase;
+  font-size: 16px;
+  margin-bottom: 30px;
+}
+.color-footer p {
+  font-size: 14px;
+}
+.footer1 {
+  margin-left: 190px;
+}
+.color-footer input {
+  border: none;
+  border-radius: 2px;
+  height: 30px;
+  width: 190px;
+  margin-bottom: 20px;
+}
+.color-footer button {
+  border: 1px solid #333;
+  border-radius: 2px;
+  width: 140px;
+  height: 30px;
+  cursor: pointer;
+  color: #fff;
+  background-color: #ff6464;
+}
+.sec-footer {
+  color: #fff;
+  margin-left: 180px;
+}
+.sec-footer svg {
+  float: left;
+  margin-right: 20px;
+  font-size: larger;
+}
+.col-12 {
+  background-color: #fff;
+  text-align: center;
+  height: 50px;
+  margin-top: 20px;
+}
+.col-12 span {
+  margin-top: 20px;
+}
